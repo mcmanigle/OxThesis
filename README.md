@@ -5,7 +5,7 @@
 Feel free to submit issues or push requests here, or comments on the blog post there.  And of course, happy thesis-writing!
 
 ---
-When writing my thesis in 2014, I was lucky enough to find [a template that Sam Evans adapted](http://evansresearch.org/2010/05/oxford-thesis-latex-template/) for social sciences use based on [the original maths template by Keith Gillow](https://www.maths.ox.ac.uk/members/it/faqs/latex/thesis-class). I wound up making my own modifications, and re-packaged the template for posterity.  This template is distributed with each of their permissions.  It's also worth pointing out that [Danny Price has developed a LyX template](https://github.com/telegraphic/Oxford-LyX-Thesis-Template) based on the maths template as well.
+When writing my thesis in 2014, I was lucky enough to find [a template that Sam Evans adapted](http://evansresearch.org/2010/05/oxford-thesis-latex-template/) for social sciences use based on [the original maths template by Keith Gillow](https://www.maths.ox.ac.uk/members/it/faqs/latex/thesis-class). I wound up making my own modifications, and re-packaged the template for posterity.  This template is distributed under an MIT License with each of their permissions.  It's also worth pointing out that [Danny Price has developed a LyX template](https://github.com/telegraphic/Oxford-LyX-Thesis-Template) based on the maths template as well.
 
 Some of the features of **OxThesis** are:
 
