@@ -1,4 +1,4 @@
-#OxThesis
+# OxThesis
 
 **OxThesis** is a LaTeX template for an Oxford University thesis, originally published on [the Oxford Echoes blog](https://www.oxfordechoes.com/oxford-thesis-template/).
 
