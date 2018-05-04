@@ -86,9 +86,7 @@
 \fi
 
 \usepackage{xcolor}
-\usepackage[pdftex]{graphicx} 
-	% allows graphics in pdf format.
-
+\usepackage{graphicx} 
 
 \usepackage{fancyhdr}
 \setlength{\headheight}{15pt}
